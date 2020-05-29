@@ -5,7 +5,7 @@
 
 ## Teste
 Desenvolver um serviço que seja capaz de gerar uma venda.
-- Uma venda é composta por id, data da venda, valor, vendedor id e vendedor nome.
+- Uma venda é composta por id, data da venda, valor e vendedor id.
 
 ## Sua tarefa é desenvolver os serviços REST abaixo
 - Criar uma venda.
