@@ -17,7 +17,7 @@ Desenvolver um serviço que seja capaz de gerar uma venda.
 - Após finalizar, realizar o pull request.
 
 ## E por fim
-- Gostaríamos de ver o histórico de seus commits.
+- Gostaríamos de ver o histórico de seus commits (sugestão: https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4).
 - Vamos avaliar a maneira que você escreveu seu código e a solução apresentada.
 - Caso encontre algum impedimento no decorrer do desenvolvimento, entregue da maneira que preferir e faça uma explicação sobre o impedimento.
 - Avaliaremos também sua postura, honestidade e a maneira que resolve problemas.
